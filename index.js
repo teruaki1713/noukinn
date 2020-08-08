@@ -1,5 +1,3 @@
-
-
 let num0 = 0;
 const ike_max = 5000;
 let ike = Math.floor(Math.random() * ike_max);
